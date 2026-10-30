@@ -7,4 +7,4 @@ This website provides a delightful coffee shop experience for both desktop and m
 
 Feel free to explore it by clicking the link below.
 
-https://sowhail.github.io/Coffee-Shop/Index.html
+https://Soheil-Hosseinzadeh.github.io/Coffee-Shop/Index.html
